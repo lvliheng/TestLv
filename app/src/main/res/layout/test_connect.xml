@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="#a6d8f1"
+              android:orientation="vertical">
+
+    <!--<EditText-->
+        <!--android:id="@+id/from_et"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:text="0"/>-->
+
+    <!--<Button-->
+        <!--android:id="@+id/login_btn"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:gravity="center"-->
+        <!--android:text="login"/>-->
+
+    <!--<EditText-->
+        <!--android:id="@+id/to_et"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:text="1"/>-->
+
+    <!--<RadioGroup-->
+        <!--android:id="@+id/select_type_rg"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:gravity="center"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:layout_marginTop="10dp">-->
+
+        <!--<RadioButton-->
+            <!--android:id="@+id/friend_rb"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="friend"-->
+            <!--android:checked="true"/>-->
+
+        <!--<RadioButton-->
+            <!--android:id="@+id/group_rb"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@null"-->
+            <!--android:text="group"-->
+            <!--android:checked="false"/>-->
+    <!--</RadioGroup>-->
+
+    <!--<Button-->
+        <!--android:id="@+id/go_btn"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:text="create conversation"-->
+        <!--android:gravity="center"/>-->
+
+    <!--<EditText-->
+        <!--android:id="@+id/msg_et"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_gravity="center"/>-->
+
+    <!--<Button-->
+        <!--android:id="@+id/send_btn"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:gravity="center"-->
+        <!--android:text="send"/>-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/new_msg_tv"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:gravity="center"/>-->
+
+    <!--<Button-->
+        <!--android:id="@+id/exit_btn"-->
+        <!--android:layout_width="192dp"-->
+        <!--android:layout_height="32dp"-->
+        <!--android:layout_marginTop="10dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:gravity="center"-->
+        <!--android:background="#d6004c"-->
+        <!--android:text="exit"-->
+        <!--android:textColor="#ffffff"/>-->
+
+    <!--<Button-->
+        <!--android:id="@+id/search_btn"-->
+        <!--android:layout_width="200dp"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:gravity="center"-->
+        <!--android:text="search"/>-->
+
+
+</LinearLayout>
